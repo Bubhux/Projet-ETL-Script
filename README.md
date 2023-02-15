@@ -70,17 +70,18 @@ def fonction_main_extract_all_categories(url):
 Ligne 28 et ligne 43
 def write_file_import_csv(data):
 Ligne 392
+
 exemple: si vous souhaitez seulement la première catégorie mettre [3:4] 
 exemple: si vous souhaitez seulement la deuxième et la troisième catégorie mettre [4:6]
 
 
-##Développement
+## Développement
 Actuellement en cours de développement:
 Une fonction pour télécharger les images.
 Une fonction permettant de voir le temps d'exécution du programme.
 
 
-##Auteurs et contact 
+## Auteurs et contact 
 Pour toute information suplémentaire vous pouvez me contacter.
 Bubhux: bubhuxpaindepice@gmail.com
 
