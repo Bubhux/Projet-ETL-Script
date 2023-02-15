@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ##Exécution de l'application
 Pour exécuter le script placez vous dans le dossier avec le terminal ou se trouve le script avec l'environnement virtuel activé.
 taper:
-projet_script_ETL_V1.py
+projet_script_ETL_V1.1.0.py
 Le programme se lance et va lister les données à extraire et ensuite les ecriras sur des fichiers csv.
 Vous pouvez mettre pause en appuyant sur ctrl+s et contrôler les informations en cours d'extraction qui défile dans votre terminal.
 Le programme est paramétré pour extraire les 50 catégories du site, vous pouvez changer se paramètre et saisir seulement
