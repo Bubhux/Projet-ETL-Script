@@ -66,9 +66,9 @@ Vous pouvez mettre pause en appuyant sur ctrl+s et contrôler les informations e
 Le programme est paramétré pour extraire les 50 catégories du site, vous pouvez changer se paramètre et saisir seulement
 les catégories souhaitées, il y a 50 catégories la liste est régler sur [3:53]  
 Vous pouvez la modifier en changeant les paramétres sur les 2 fonctions suivantes:  
-def fonction_main_extract_all_categories(url):   
+**_def fonction_main_extract_all_categories(url):_**   
 Ligne 28 et ligne 43  
-def write_file_import_csv(data):  
+**_def write_file_import_csv(data):_**  
 Ligne 392  
 
 exemple: si vous souhaitez seulement la première catégorie mettre [3:4]  
