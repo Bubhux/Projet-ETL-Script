@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/BUILD_WITH-PYTHON-red?style=for-the-badge&logo=python)
 ## Menu 
 1. **Info general**   
 2. **Liste pré-requis**   
