@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/BUILD_WITH-PYTHON-red?style=for-the-badge&logo=python)
 ## Menu 
 1. **Info general**   
 2. **Liste pré-requis**   
@@ -62,8 +63,9 @@ projet_script_ETL_V1.2.0.py
 ```
 
 Le programme se lance et va lister les données à extraire et ensuite les ecriras sur des fichiers csv.
-Vous pouvez mettre pause en appuyant sur ctrl+s et contrôler les informations en cours d'extraction qui défile dans votre terminal.
+Vous pouvez mettre pause en appuyant sur ctrl+s et contrôler les informations en cours d'extraction qui défile dans votre terminal.  
 Le programme est paramétré pour extraire les 50 catégories du site, vous pouvez changer se paramètre et saisir seulement
+
 les catégories souhaitées, il y a 50 catégories la liste est régler sur [3:53]
 Vous pouvez la modifier en changeant les paramétres sur les 2 fonctions suivantes:
 def fonction_main_extract_all_categories(url): 
@@ -72,16 +74,26 @@ def write_file_import_csv(data):
 Ligne 392
 
 exemple: si vous souhaitez seulement la première catégorie mettre [3:4] 
+
+les catégories souhaitées, il y a 50 catégories la liste est régler sur [3:53]  
+Vous pouvez la modifier en changeant les paramétres sur les 2 fonctions suivantes:  
+**_def fonction_main_extract_all_categories(url):_**   
+Ligne 28 et ligne 43  
+**_def write_file_import_csv(data):_**  
+Ligne 392  
+
+exemple: si vous souhaitez seulement la première catégorie mettre [3:4]  
+
 exemple: si vous souhaitez seulement la deuxième et la troisième catégorie mettre [4:6]
 
 
-##Développement
+## Développement
 Actuellement en cours de développement:
 Une fonction pour télécharger les images.
 Une fonction permettant de voir le temps d'exécution du programme.
 
 
-##Auteurs et contact 
+## Auteurs et contact 
 Pour toute information suplémentaire vous pouvez me contacter.
 Bubhux: bubhuxpaindepice@gmail.com
 
