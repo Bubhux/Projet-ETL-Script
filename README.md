@@ -94,7 +94,7 @@ Pour exécuter le script placez vous dans le dossier avec le terminal ou se trou
 **Taper dans votre terminal la commande :**
 
 ```bash
-$ projet_script_ETL_V1.2.0.py
+$ python projet_script_ETL_V1.2.0.py
 ```
 
 - Le programme se lance et va lister les données à extraire et ensuite les ecriras sur des fichiers csv.   
