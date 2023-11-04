@@ -127,9 +127,9 @@ Ligne 392
 <a href="#top" style="float: right;">Retour en haut ↑</a>
 
 ### Développement
-Actuellement en cours de développement :   
-Une fonction pour télécharger les images.   
-Une fonction permettant de voir le temps d'exécution du programme.   
+**Actuellement en cours de développement :**   
+- Une fonction pour télécharger les images.   
+- Une fonction permettant de voir le temps d'exécution du programme.   
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ Une fonction permettant de voir le temps d'exécution du programme.
 
 ### Auteurs et contact 
 Pour toute information suplémentaire, vous pouvez me contacter.   
-**Bubhux:** bubhuxpaindepice@gmail.com   
+**Bubhux :** bubhuxpaindepice@gmail.com   
