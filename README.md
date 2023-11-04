@@ -22,7 +22,6 @@ Les tests d'extraction sont faits sur le site: http://books.toscrape.com/
 -------------------------------------------------------------------------------------------------------------------
 
 <div id="liste"></div>
-<a href="#top" style="float: right;">Retour en haut ↑</a>
 
 ### Liste pré-requis 
 - Script construit avec les logiciels suivants:   
