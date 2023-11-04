@@ -108,14 +108,14 @@ Vous pouvez la modifier en changeant les paramétres sur les 2 fonctions suivant
 
 ```python
 def fonction_main_extract_all_categories(url):
-Ligne 28   
-Ligne 43 
+Ligne 29   
+Ligne 44 
 ``` 
 
 
 ```python
 def write_file_import_csv(data):
-Ligne 392
+Ligne 393
 ```   
 
 **Exemple :** si vous souhaitez seulement la première catégorie mettre ``[3:4]``   
