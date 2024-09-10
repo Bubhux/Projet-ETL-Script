@@ -47,7 +47,7 @@ Programme élaborés avec les technologies suivantes :
 -------------------------------------------------------------------------------------------------------------------
 
 <div id="creation-environnement"></div>
-<a href="#top" style="float: right;">Retour en haut ↑</a>
+<a href="#top" style="float: right;">Retour en haut 🡅</a>
 
 ### Création environnement virtuel   
 
@@ -65,7 +65,7 @@ $ python -m venv env
 -------------------------------------------------------------------------------------------------------------------
 
 <div id="activation-environnement"></div>
-<a href="#top" style="float: right;">Retour en haut ↑</a>
+<a href="#top" style="float: right;">Retour en haut 🡅</a>
 
 ### Activation environnement virtuel   
 
@@ -93,7 +93,7 @@ $ deactivate
 -------------------------------------------------------------------------------------------------------------------
 
 <div id="installation"></div>
-<a href="#top" style="float: right;">Retour en haut ↑</a>
+<a href="#top" style="float: right;">Retour en haut 🡅</a>
 
 ### Installation librairies   
 
@@ -108,7 +108,7 @@ $ pip install -r requirements.txt
 -------------------------------------------------------------------------------------------------------------------
 
 <div id="execution"></div>
-<a href="#top" style="float: right;">Retour en haut ↑</a>
+<a href="#top" style="float: right;">Retour en haut 🡅</a>
 
 ### Exécution de l'application   
 
@@ -151,7 +151,7 @@ Ligne 393
 -------------------------------------------------------------------------------------------------------------------
 
 <div id="developpement"></div>
-<a href="#top" style="float: right;">Retour en haut ↑</a>
+<a href="#top" style="float: right;">Retour en haut 🡅</a>
 
 ### Développement   
 
@@ -163,7 +163,7 @@ Ligne 393
 -------------------------------------------------------------------------------------------------------------------
 
 <div id="auteur"></div>
-<a href="#top" style="float: right;">Retour en haut ↑</a>
+<a href="#top" style="float: right;">Retour en haut 🡅</a>
 
 ### Auteur et contact   
 
