@@ -129,7 +129,7 @@ $ python projet_script_ETL_V1.2.0.py
 >_**Note :** Il y a 50 catégories la liste est régler sur ``[3:53]``_   
 
 
-##### Vous pouvez la modifier en changeant les paramétres sur les 2 fonctions suivantes :   
+#### Vous pouvez la modifier en changeant les paramétres sur les 2 fonctions suivantes :   
 
 - ``projet_script_ETL_V1.2.0.py`` ➔ ([projet_script_ETL_V1.2.0.py](projet_script_ETL_V1.2.0.py))   
 
