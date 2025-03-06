@@ -42,7 +42,7 @@ Programme élaborés avec les technologies suivantes :
 - Sur **Mac**, pressez la touche ```command + espace``` et entrez ```terminal```.   
 - Sur **Linux**, vous pouvez ouvrir un terminal en pressant les touches ```Ctrl + Alt + T```.   
 
->_**Note :** Interpréteur **Python**, version 3.6 ou supérieure     
+>_**Note :** Interpréteur **Python**, version 3.6 ou supérieure_     
 
 -------------------------------------------------------------------------------------------------------------------
 
